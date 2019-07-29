@@ -1,5 +1,10 @@
 # simpligo-ranker
 
+## NILC
+Este trabalho é parte do meu doutorado no ICMC-USP, vinculado ao laboratório do NILC - Núcleo Interinstitucional de Linguística Computacional.
+
+[http://www.nilc.icmc.usp.br/nilc/index.php](http://www.nilc.icmc.usp.br/nilc/index.php)
+
 ## Licença
 [AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.pt-br.html)
 
@@ -17,7 +22,7 @@
 }
 ````
 
-### Resultado do algoritmo de seleção de *features Permutation Importance* no regressor:
+## Resultado do algoritmo de seleção de *features Permutation Importance* no regressor:
 
 |ranking | *Feature*   |    Peso    |
 |:-:|---|:-:|
