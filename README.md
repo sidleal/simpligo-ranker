@@ -1,5 +1,22 @@
 # simpligo-ranker
 
+## Licença
+[AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.pt-br.html)
+
+## Citação
+````
+@inproceedings{leal2019ranker,
+    author = {Sidney Evaldo Leal and Vanessa Maia Aguiar de Magalhães and Magali Sanches Duran and Sandra Maria Aluísio},
+    title = {Avaliação Automática da Complexidade de Sentenças do Português Brasileiro para o Domínio Rural},
+    booktitle = {STIL 2019 - Symposium in Information and Human Language Technology},
+    year = {2019},
+    pages = {?–?},
+    month = {Outubro},
+    date = {15-18},
+    address = {Salvador, Bahia, Brasil},
+}
+````
+
 ### Resultado do algoritmo de seleção de *features Permutation Importance* no regressor:
 
 |ranking | *Feature*   |    Peso    |
