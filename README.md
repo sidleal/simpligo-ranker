@@ -10,7 +10,7 @@ Este trabalho é parte do meu doutorado no ICMC-USP, vinculado ao laboratório d
 
 ## Citação
 ````
-@inproceedings{leal2019ranker,
+@inproceedings{leal2019ranking,
     author = {Sidney Evaldo Leal and Vanessa Maia Aguiar de Magalhães and Magali Sanches Duran and Sandra Maria Aluísio},
     title = {Avaliação Automática da Complexidade de Sentenças do Português Brasileiro para o Domínio Rural},
     booktitle = {STIL 2019 - Symposium in Information and Human Language Technology},
